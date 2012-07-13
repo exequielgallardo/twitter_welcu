@@ -1,0 +1,15 @@
+Programa que busca palabras en twitter y guarda los resultados en sqlite3
+
+#requisitos
+sqlite3
+ruby
+php
+
+#gem de ruby
+gem install sqlite3
+gem install dancroak-twitter-search
+
+#instalar
+copiar la carpeta a localhost
+ejecutar con CRON el script ruby "scrit_twitter.rb"
+
